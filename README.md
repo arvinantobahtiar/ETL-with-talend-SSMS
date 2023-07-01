@@ -2,7 +2,7 @@
 
 # Data Restoring and Transforming Project
 
-This project demonstrates the process of restoring and transforming data using Talend and SQL Server Management Studio (SSMS). It involves extracting data from a source, loading it into a SQL Server database, and performing transformation operations to achieve the desired output.
+This project demonstrates the process of restoring and transforming data using Talend and SQL Server Management Studio (SSMS). It involves restoring data from a source and migrate it to another database, loading it into a SQL Server database, and performing transformation operations to achieve the desired output.
 
 ## Prerequisites
 
