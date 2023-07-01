@@ -12,7 +12,7 @@ Before running the project, ensure that you have the following software and tool
 
 - SQL Server Management Studio (SSMS): Version X.X or above. [Download SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
-- SQL Server: Version X.X or above. Ensure that you have a SQL Server instance running and accessible.
+- SQL Server: Ensure that you have a SQL Server instance running and accessible.
 
 ## Project Structure
 
