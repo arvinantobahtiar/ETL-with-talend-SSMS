@@ -14,7 +14,4 @@ Before running the project, ensure that you have the following software and tool
 
 - SQL Server: Ensure that you have a SQL Server instance running and accessible.
 
-## Project Structure
-
-The project repository is structured as follows:
 
