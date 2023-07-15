@@ -23,3 +23,6 @@ The ETL job in talend migrate each tables from the staging database to the DWH_p
 
 ![DWH_project job](https://github.com/arvinantobahtiar/ETL-with-talend-SSMS/assets/111122086/7304f042-3c68-49e7-9afd-ab8e2098b1cd)
 
+![concattable](https://github.com/arvinantobahtiar/ETL-with-talend-SSMS/assets/111122086/e674cead-6e2f-499c-a027-b968a366d5ab)
+
+
