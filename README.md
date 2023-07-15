@@ -14,4 +14,12 @@ Before running the project, ensure that you have the following software and tool
 
 - SQL Server: Ensure that you have a SQL Server instance running and accessible.
 
+## Explanation
+
+The ETL job in talend migrate each tables from the staging database to the DWH_project database with some transformation :
+
+- Rename all the columns
+- Concat first_name and last_name table into one table called 'FullName' from the customer table
+
+![DWH_project job](https://github.com/arvinantobahtiar/ETL-with-talend-SSMS/assets/111122086/7304f042-3c68-49e7-9afd-ab8e2098b1cd)
 
